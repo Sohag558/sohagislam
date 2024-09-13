@@ -1,0 +1,77 @@
+#praimary-color {
+    color: #FF4240;
+}
+
+#search-icon {
+    color: #fff;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+#btn {
+    border-radius: 8px;
+    background: #FF4240;
+    color: #FFF;
+    text-align: center;
+    font-size: 20px;
+    border-style: none;
+}
+
+#first {
+    color: #FF4240;
+}
+
+#second {
+    color: #49D293;
+}
+
+#third {
+    color: #FFB546;
+}
+
+#fourth {
+    color: #4C8DF1;
+}
+
+#color-1 {
+    color: rgba(19, 19, 24, 0.60);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+}
+
+
+#flex {
+    display: flex;
+}
+
+#social {
+    background: rgba(19, 19, 24, 0.03);
+}
+
+#social-title {
+    color: #131318;
+    text-align: center;
+    font-size: 2rem;
+    font-weight: 800;
+}
+
+#footer {
+    background: #131318;
+}
+
+#color-2 {
+    color: rgba(255, 255, 255, 0.60);
+}
+
+#img {
+    width: 24px;
+    height: 24px;
+}
+
+#color-3 {
+    color: #FFFFFF;
+    font-size: 18px;
+    font-weight: 700;
+}
+
